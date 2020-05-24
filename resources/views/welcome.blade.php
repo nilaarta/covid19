@@ -126,11 +126,11 @@
         <div class="row">
           <div class="col-6">
             <p>Color Start:</p>
-            <input type="color" value="#E5310A" class="form-control" id="colorStart">
+            <input type="color" value="#E8DEDB" class="form-control" id="colorStart">
           </div>
           <div class="col-6">
             <p>Color End:</p>
-            <input type="color" value="#E8DEDB" class="form-control" id="colorEnd">
+            <input type="color" value="#E5310A" class="form-control" id="colorEnd">
           </div>
         </div>
         <div class="row mt-2">
